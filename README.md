@@ -1,6 +1,6 @@
 # I Blank WordPress Theme
 
-A blank WordPress theme that let's you build your web app/site from scratch using bootstrap.
+A blank WordPress theme let you build your web app/site from scratch using bootstrap.
 
 
 ### Installing
