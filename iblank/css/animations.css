@@ -1,0 +1,41 @@
+/**
+* Animations Styles
+*/
+@keyframes arrow_animation {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(15px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+@-webkit-keyframes arrow_animation {
+  0% {
+    -webkit-transform: translateY(0);
+  }
+  50% {
+    -webkit-transform: translateY(15px);
+  }
+  100% {
+    -webkit-transform: translateY(0);
+  }
+}
+@keyframes rotate_animation {
+  from {transform:rotate(0deg);}
+  to {transform:rotate(360deg);}
+}
+@-webkit-keyframes rotate_animation {
+  from {-webkit-transform:rotate(0deg);}
+  to {-webkit-transform:rotate(360deg);}
+}
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}

@@ -1,0 +1,47 @@
+/*
+Theme Name: iblank
+Theme URI: https://github.com/gostavee/iblank-wordpress-theme
+Author: Ahmed Sobhy
+Author URI: https://github.com/gostavee
+Description: iblank theme is a simple yet solid theme for most business requirements, it's highly scalable and customizable, it comes with a few plugins to insure performance optimization.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: iblank
+Tags: one-column, two-columns, right-sidebar, flexible-header, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, rtl-language-support, theme-options, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/**
+* Fonts Styles
+*/
+@import url("css/fonts.css");
+/**
+* Global Styles
+*/
+@import url("css/global.css");
+/**
+* Header Styles
+*/
+@import url("css/header.css");
+/**
+* Content Styles
+*/
+@import url("css/content.css");
+/**
+* Footer Styles
+*/
+@import url("css/footer.css");
+/**
+* Flex Styles
+*/
+@import url("css/flex.css");
+/**
+* Animations Styles
+*/
+@import url("css/animations.css");
+/**
+* Media Queries Styles
+*/
+@import url("css/media_queries.css");

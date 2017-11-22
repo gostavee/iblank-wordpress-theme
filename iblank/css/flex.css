@@ -1,0 +1,66 @@
+/**
+* Flex styles
+*/
+.flex {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+.flex-nowrap  {
+  -webkit-flex-wrap: nowrap;
+  flex-wrap: nowrap;
+}
+.flex-wrap    {
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.flex-col {
+  -webkit-flex-direction: column;
+  flex-direction: column;
+}
+.flex-row {
+  -webkit-flex-direction: row;
+  flex-direction: row;
+}
+.flex-start-items {
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+}
+.flex-start-content {
+  -webkit-justify-content: flex-start;
+  justify-content: flex-start;
+}
+.flex-end-items {
+  -webkit-align-items: flex-end;
+  align-items: flex-end;
+}
+.flex-end-content {
+  -webkit-justify-content: flex-end;
+  justify-content: flex-end;
+}
+.flex-center-items {
+  -webkit-align-items: center;
+  align-items: center;
+}
+.flex-center-content {
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.flex-baseline-items {
+  -webkit-align-items: baseline;
+  align-items: baseline;
+}
+.flex-between-content {
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+}
+.flex-stretch-items {
+  -webkit-align-items: stretch;
+  align-items: stretch;
+}
+.flex-around-content {
+  -webkit-justify-content: space-around;
+  justify-content: space-around;
+}
