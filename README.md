@@ -5,7 +5,7 @@ A blank WordPress theme let you build your web app/site from scratch using boots
 
 ### Installing
 
-Just add the theme folder in your WordPress themes directory.
+Download and add the theme folder in your WordPress themes directory.
 
 for example
 ```
